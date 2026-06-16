@@ -7,6 +7,6 @@
   </head>
   <body>
     <h1>About.html</h1>
-    <h1>salom mening ismim ozodbek yoshim 14 da</h1>
+    <h1>Loyihani korish uch bizga mrojat qiling +998 99 999 99 99</h1>
   </body>
 </html>
